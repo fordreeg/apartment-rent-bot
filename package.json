@@ -1,0 +1,8 @@
+{
+  "name": "apartment-rent-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:fordreeg/apartment-rent-bot.git",
+  "author": "manqarium <manqarium@gmail.com>",
+  "license": "MIT"
+}
